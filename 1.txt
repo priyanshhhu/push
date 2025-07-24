@@ -1,0 +1,33 @@
+step 1{
+      
+      git init
+}
+
+step 2{
+
+      git add.
+}
+
+step 3 {
+
+     git config --global user.name priyanshhhu
+} 
+
+step 4{
+
+    git config --global user.email priyanshutomar9801@gmail.com
+} 
+step 5{
+
+      git commit -m "steps done"
+}
+to see the list of commit{
+
+       git log
+}
+to check the status of the commit {
+
+    git status 
+
+    it show the modified or not 
+}
